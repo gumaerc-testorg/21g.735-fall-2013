@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Weeks 1-15
+parent_type: CourseSection
 parent_uid: 7dcfa077-073f-b180-d8db-58360a32eb03
 title: Week 12
 uid: 6f1dd9f3-31b9-a21b-06e3-f172bf6911b1

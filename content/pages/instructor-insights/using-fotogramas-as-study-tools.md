@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 318d3aa9-d2c2-ae2d-5275-22cb1a380604
 title: Using Fotogramas as Study Tools
 uid: 05d0b009-3aec-274d-85ab-c449833e6ff6

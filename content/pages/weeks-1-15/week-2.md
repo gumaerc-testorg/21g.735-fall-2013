@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Weeks 1-15
+parent_type: CourseSection
 parent_uid: 7dcfa077-073f-b180-d8db-58360a32eb03
 title: Week 2
 uid: f0a046d2-2339-9c25-0d8a-2b81f438bd26
@@ -21,7 +24,7 @@ Freud, Sigmund. "E. Representation By Symbols in Dreams – Some Further Typical
 
 \[Discreet Art\] "_Un chien andalou_." Chapter 1.
 
-Note: Freud's book was originally published, in German, in 1900, but the material in this particular section started to appear only in the 2nd and 3rd editions of 1909 and 1911. The text of the Avon edition (1965) reproduces a later edition and incorporates changes added in editions subsequent to the third. In 1923, the first Spanish translation of the book was published in Madrid as _La interpretación de los sueños_; the translator was Luis López Ballesteros.
+Note: Freud's book was originally published, in German, in 1900, but the material in this particular section started to appear only in the 2{{< sup "nd" >}} and 3{{< sup "rd" >}} editions of 1909 and 1911. The text of the Avon edition (1965) reproduces a later edition and incorporates changes added in editions subsequent to the third. In 1923, the first Spanish translation of the book was published in Madrid as _La interpretación de los sueños_; the translator was Luis López Ballesteros.
 
 You can [download](http://www.planetalibro.net/ebooks/eam/ebook_view.php?ebooks_books_id=90&&author_letter=&author=&title_letter=%3e) an entire Spanish-language version for free from PlanetLibro. In this version, Chapter VI, "La elaboración onírica," starts on p. 171 and ends on p. 318.
 

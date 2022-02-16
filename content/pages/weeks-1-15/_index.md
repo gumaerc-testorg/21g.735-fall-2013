@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Weeks 1-15
 uid: 7dcfa077-073f-b180-d8db-58360a32eb03
 ---
