@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 09c9ba1c-b19d-be96-03d3-99d7115268b1
 resourcetype: Document
 title: 21G.735 Mi ultimo suspiro notes assignment
 uid: 6d35e85c-b85c-5340-34ab-e5ad11eb2458

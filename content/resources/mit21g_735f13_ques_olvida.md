@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Questions about \u201CLos olvidados\u201D"
 uid: 04d5d7be-841b-d8b1-1a78-bdb36434ecf6

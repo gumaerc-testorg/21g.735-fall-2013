@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Themes for the discussion about \u201CViridiana\u201D"
 uid: 4a9952b9-91ae-ce7c-0b54-0f1245521ff0

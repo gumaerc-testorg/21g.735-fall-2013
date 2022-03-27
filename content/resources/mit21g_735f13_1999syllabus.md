@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 6504afed-2535-2a8a-31f9-c763e8a195cd
 resourcetype: Document
 title: 21G.735 1999 Syllabus
 uid: 738244e4-2609-210f-c2df-cb15b85bfcc9

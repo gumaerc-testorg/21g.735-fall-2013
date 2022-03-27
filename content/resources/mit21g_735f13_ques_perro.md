@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Questions to interpret \u201CUn perro andaluz\u201D"
 uid: f33c2ebd-4c62-b3d9-c80a-93aaf688e841

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Quotes about Terrorism in \u201CEse oscuro objeto del deseo\""
 uid: e84d3c9d-2cc6-11c9-4cd1-2c5b9b4e966c

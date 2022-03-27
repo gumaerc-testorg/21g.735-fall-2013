@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Five questions about \u201CSim\xF3n del desierto\u201D"
 uid: 6dece2f7-9eff-e1bb-dc7e-203d54600e93

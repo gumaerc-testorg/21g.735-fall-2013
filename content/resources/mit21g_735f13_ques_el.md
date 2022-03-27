@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Questions about the movie\u201CEl\u201D"
 uid: 0097d193-f13a-bf8f-eeda-dd1c3d41aaf8

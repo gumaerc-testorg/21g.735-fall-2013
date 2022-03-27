@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 09c9ba1c-b19d-be96-03d3-99d7115268b1
 resourcetype: Document
 title: 21G.735 Clarification of 750 Word Essay
 uid: ad96a8a5-aca8-fd14-7c96-5a77ba42f723

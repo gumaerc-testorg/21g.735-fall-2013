@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Scenes from the Movie \u201CEl\u201D"
 uid: c9ffa9fe-e9ce-96b8-949e-e7179c70346c

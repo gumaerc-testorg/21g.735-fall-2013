@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 6504afed-2535-2a8a-31f9-c763e8a195cd
 resourcetype: Document
 title: 21G.735 2013 Syllabus
 uid: 58d6de13-64d0-9aec-b9aa-8583adc73ae8

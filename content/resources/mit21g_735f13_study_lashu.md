@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 The reading by Pierre Vilar and the movie \u201CLas Hurdes\u201D"
 uid: 62db192d-2cbf-f40d-5596-0f965a14c436

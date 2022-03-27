@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Notes About the Movie \u201CEl \xE1ngel exterminador\""
 uid: 01344e9d-2ed1-374d-77a1-dfb5e6134c1b
