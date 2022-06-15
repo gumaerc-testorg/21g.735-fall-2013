@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of topics and readings for the sixth week
+  of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -20,4 +22,4 @@ Session 9
 
  Freud, Sigmund. Excerpt from “The Uncanny.” _The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume XVII_. Hogarth Press, 1964. pp. 358-361. ASIN: B0045EIZRM
 
-« [Previous]({{< baseurl >}}/pages/weeks-1-15/week-5) | [Next]({{< baseurl >}}/pages/weeks-1-15/week-7) »
+« {{% resource_link 42c7a8da-002e-868c-a005-cae63ef0db23 "Previous" %}} | {{% resource_link 729e205f-e0fd-600e-d160-7834ae72cd31 "Next" %}} »

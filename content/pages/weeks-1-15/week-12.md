@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of topics, films, and readings for the
+  twelfth week of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -35,4 +37,4 @@ Freud, Sigmund. "Lecture 33: The Psychology of Women." In _New Introductory Lect
 
 Chodorow, Nancy J. "Freud on Women." In _The Cambridge Companion to Freud_. Edited by Jerome Neu. Cambridge University Press, 1991. ISBN: 9780521377799. \[Preview with [Google Books](http://books.google.com/books?id=J4UNrJlLGjoC&pg=PA224=onepage)\]
 
-« [Previous]({{< baseurl >}}/pages/weeks-1-15/week-11) | [Next]({{< baseurl >}}/pages/weeks-1-15/week-13) »
+« {{% resource_link 77259e5e-3d1c-7f2e-a4e6-45573ff303a7 "Previous" %}} | {{% resource_link f57be051-2e13-5324-845d-c6ab09ff5d7a "Next" %}} »

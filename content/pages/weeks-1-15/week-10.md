@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of topics, films, and readings for the
+  tenth week of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -35,4 +37,4 @@ Watch [_Viridiana_](http://www.imdb.com/title/tt0055601/?ref_=fn_al_tt_1). Direc
 
 "[El éxito de una película prohibida: Viridiana (1961)](http://cvc.cervantes.es/actcult/bunuel/obra/viridiana.htm)." Centro Virtual Cervantes.
 
-« [Previous]({{< baseurl >}}/pages/weeks-1-15/week-9) | [Next]({{< baseurl >}}/pages/weeks-1-15/week-11) »
+« {{% resource_link 2b580558-0be0-5b03-8d07-9d8a8b9b66e5 "Previous" %}} | {{% resource_link 77259e5e-3d1c-7f2e-a4e6-45573ff303a7 "Next" %}} »

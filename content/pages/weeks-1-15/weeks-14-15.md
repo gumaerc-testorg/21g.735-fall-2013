@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of topics, readings, and assignments for
+  the fourteenth and fifteenth weeks of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -25,4 +27,4 @@ Session 25–27
 
 Individual oral reports on topics of 10-page papers.
 
-« [Previous]({{< baseurl >}}/pages/weeks-1-15/week-13)
+« {{% resource_link f57be051-2e13-5324-845d-c6ab09ff5d7a "Previous" %}}

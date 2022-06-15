@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of topics, films, readings, and assignments
+  for the first week of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -36,4 +38,4 @@ Visit the website [Centro Virtual Cervantes](http://cvc.cervantes.es/actcult/bun
 
 The images that accompany each title are accessed by clicking the forward arrow to the left of the title / text page.
 
-« [Previous]({{< baseurl >}}/pages/weeks-1-15) | [Next]({{< baseurl >}}/pages/weeks-1-15/week-2) »
+« {{% resource_link 7dcfa077-073f-b180-d8db-58360a32eb03 "Previous" %}} | {{% resource_link f0a046d2-2339-9c25-0d8a-2b81f438bd26 "Next" %}} »

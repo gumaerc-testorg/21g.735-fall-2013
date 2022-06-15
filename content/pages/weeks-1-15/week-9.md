@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of topics, films, and readings for the
+  ninth week of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -29,4 +31,4 @@ Session 15
 
 Discussion of film [_Nazarin_](http://www.imdb.com/title/tt0051983/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 94 min. Producciones Barbachano Ponce, 1959.
 
-« [Previous]({{< baseurl >}}/pages/weeks-1-15/week-8) | [Next]({{< baseurl >}}/pages/weeks-1-15/week-10) »
+« {{% resource_link b512b2e9-350b-4378-ab1e-7fe4f8b34a23 "Previous" %}} | {{% resource_link 4e4a98ff-bb8d-62a8-c78d-7d413cc22d68 "Next" %}} »

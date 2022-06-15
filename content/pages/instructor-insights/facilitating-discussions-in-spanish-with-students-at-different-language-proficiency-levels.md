@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "In this section, Prof. Garrels discusses how she facilitated discussions\
+  \ about the films in Spanish with students at different language proficiency levels.\
+  \ She notes that different grouping strategies supported students\u2019 language\
+  \ development and comprehension."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

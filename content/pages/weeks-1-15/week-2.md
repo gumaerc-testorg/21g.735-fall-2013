@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of topics and readings for the second
+  week of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -45,4 +47,4 @@ Session 3
 
 Freud, Sigmund. “Family Romances.” In _The Standard Edition of the Complete Psychological Works of Sigmund Freud: Volume IX._ Hogarth Press, 1959. ASIN: B00B2QKOI4
 
-« [Previous]({{< baseurl >}}/pages/weeks-1-15/week-1) | [Next]({{< baseurl >}}/pages/weeks-1-15/week-3) »
+« {{% resource_link ded16d05-ce1d-f864-c4ed-ea235d616fd7 "Previous" %}} | {{% resource_link 76e75ff4-07e5-638c-7768-9c4d26a80565 "Next" %}} »
