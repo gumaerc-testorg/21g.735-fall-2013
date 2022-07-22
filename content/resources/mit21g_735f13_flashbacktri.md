@@ -5,6 +5,7 @@ description: "This file contains information regarding flashbacks in \u201Ctrist
 file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/b09557730a74318e556167b467439a1c_MIT21G_735F13_FlashbackTri.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "21G.735 Two Different Versions of the Flashbacks in \u201CTristana\""
 uid: b0955773-0a74-318e-5561-67b467439a1c
 ---
 This file contains information regarding flashbacks in “tristana".
-

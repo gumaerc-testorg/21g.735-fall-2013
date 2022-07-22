@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: Elizabeth Garrels' photo
 uid: 62423ae0-4cf9-27ca-79b9-bcc08c188fbd
 ---
 Elizabeth Garrels' photo
-

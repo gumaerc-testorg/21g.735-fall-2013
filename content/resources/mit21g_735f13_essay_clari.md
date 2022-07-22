@@ -5,6 +5,7 @@ file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21G.735 Clarification of 750 Word Essay
 uid: ad96a8a5-aca8-fd14-7c96-5a77ba42f723
 ---
 This file contains information regarding clarification of 750 word essay.
-
