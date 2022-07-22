@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 09c9ba1c-b19d-be96-03d3-99d7115268b1
 ---
@@ -7,7 +11,7 @@ uid: 09c9ba1c-b19d-be96-03d3-99d7115268b1
 _Mi último suspiro_ Notes
 -------------------------
 
-During the semester, students read Buñuel's autobiography _Mi último suspiro_ (originally published in French in 1982 as _Mon dernier soupir_), and each Friday, a student or students (collaboratively) write and place reading notes, in Spanish, on the class website. Each student only has to write reading notes once during the semester. Read more about the [_Mi último suspiro_ assignment (PDF)]({{< baseurl >}}/resources/mit21g_735f13_ultimo_asgn).
+During the semester, students read Buñuel's autobiography _Mi último suspiro_ (originally published in French in 1982 as _Mon dernier soupir_), and each Friday, a student or students (collaboratively) write and place reading notes, in Spanish, on the class website. Each student only has to write reading notes once during the semester. Read more about the {{% resource_link 6d35e85c-b85c-5340-34ab-e5ad11eb2458 "_Mi último suspiro_ assignment (PDF)" %}}.
 
 Oral Reports
 ------------
@@ -19,7 +23,7 @@ Essay
 
 A week after each student presents in class, each presenter will send the professor, a minimum of 750 words in Spanish, in essay form (double-spaced), explicating / interpreting one scene from the movie he or she taught in class. No two students should write on the same scene; thus students will consult each other and the professor well ahead of time about their scene of choice.
 
-Further clarification on this [Essay (PDF)]({{< baseurl >}}/resources/mit21g_735f13_essay_clari).
+Further clarification on this {{% resource_link ad96a8a5-aca8-fd14-7c96-5a77ba42f723 "Essay (PDF)" %}}.
 
 10-Page Paper
 -------------

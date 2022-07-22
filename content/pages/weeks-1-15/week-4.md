@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides the list of topics, readings, and assignments for
+  the fourth week of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Weeks 1-15
+parent_type: CourseSection
 parent_uid: 7dcfa077-073f-b180-d8db-58360a32eb03
 title: Week 4
 uid: 278e6699-eaed-7509-87f5-298863c704f3
@@ -40,6 +45,6 @@ Buñuel, Luis. "Tierra sin pan." (Lecture presented in New York in 1940) and "El
 
 ### Assignments
 
-By this session, students need to have informed the professor of their film choice for their 10-page paper, due by the end of the semester. See the [Assignments]({{< baseurl >}}/pages/assignments) section.
+By this session, students need to have informed the professor of their film choice for their 10-page paper, due by the end of the semester. See the {{% resource_link 09c9ba1c-b19d-be96-03d3-99d7115268b1 "Assignments" %}} section.
 
-« [Previous]({{< baseurl >}}/pages/weeks-1-15/week-3) | [Next]({{< baseurl >}}/pages/weeks-1-15/week-5) »
+« {{% resource_link 76e75ff4-07e5-638c-7768-9c4d26a80565 "Previous" %}} | {{% resource_link 42c7a8da-002e-868c-a005-cae63ef0db23 "Next" %}} »

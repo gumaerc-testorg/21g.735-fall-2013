@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  films, required books, grading, and an archive of syllabi from previous years.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6504afed-2535-2a8a-31f9-c763e8a195cd
 ---
@@ -17,19 +21,19 @@ The prerequisite for this course is one intermediate Spanish subject. Usually th
 Syllabus Archive
 ----------------
 
-[1999 Syllabus (PDF)]({{< baseurl >}}/resources/mit21g_735f13_1999syllabus)
+{{% resource_link 738244e4-2609-210f-c2df-cb15b85bfcc9 "1999 Syllabus (PDF)" %}}
 
-[2001 Syllabus (PDF)]({{< baseurl >}}/resources/mit21g_735f13_2001syllabus)
+{{% resource_link 9e7bf32c-0532-86fa-9277-517ba771ff72 "2001 Syllabus (PDF)" %}}
 
-[2006 Syllabus (PDF)]({{< baseurl >}}/resources/mit21g_735f13_2006syllabus)
+{{% resource_link 7ce676d2-d3c1-a5cf-100c-498bd00577d7 "2006 Syllabus (PDF)" %}}
 
-[2007 Syllabus (PDF)]({{< baseurl >}}/resources/mit21g_735f13_2007syllabus)
+{{% resource_link ae9c16ec-d81f-6a50-1cc9-22f80edae606 "2007 Syllabus (PDF)" %}}
 
-[2009 Syllabus (PDF)]({{< baseurl >}}/resources/mit21g_735f13_2009syllabus)
+{{% resource_link 10a62685-e4e9-4349-e954-3f921f10717d "2009 Syllabus (PDF)" %}}
 
-[2011 Syllabus (PDF)]({{< baseurl >}}/resources/mit21g_735f13_2011syllabus)
+{{% resource_link 368fe1b1-a134-8172-8b8e-2860f31f3b0d "2011 Syllabus (PDF)" %}}
 
-[2013 Syllabus (PDF)]({{< baseurl >}}/resources/mit21g_735f13_2013syllabus)
+{{% resource_link 58d6de13-64d0-9aec-b9aa-8583adc73ae8 "2013 Syllabus (PDF)" %}}
 
 Films
 -----

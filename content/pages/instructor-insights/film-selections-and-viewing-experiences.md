@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: "In this section, Prof. Garrels discusses the number and frequency of\
+  \ Bu\xF1uel films that were shared with students throughout the years the course\
+  \ was taught. She notes that the films were viewed in their original languages and\
+  \ that students were provided with materials to support their comprehension. She\
+  \ also shares that collectively viewing the films in class had important instructional,\
+  \ social, and aesthetic implications."
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 318d3aa9-d2c2-ae2d-5275-22cb1a380604
 title: Film Selections and Viewing Experiences
 uid: d13dc85a-5b8a-d0ba-1d05-95ac707d284d
@@ -40,7 +49,7 @@ The remaining eleven films taught selectively were:
 10.  "Simón del desierto" (Mexico, Spanish, 1965) - 3 times
 11.  "Belle de Jour" (France, French, 1967), with English subtitles - 2 times
 
-All seven [syllabi]({{< baseurl >}}/pages/syllabus) are available within this OCW course. Those interested should consult these syllabi individually to see the orders in which these films were taught. The one film that was consistently taught out of chronological order, "Le Charme Discret" (1972), was taught toward the beginning of the semester to show students how many of the procedures of the early surrealist silent films were retained and developed by Buñuel, who, at the end of his career, had access to relatively large budgets and was able to produce glossy color films with high production values.
+All seven {{% resource_link 6504afed-2535-2a8a-31f9-c763e8a195cd "syllabi" %}} are available within this OCW course. Those interested should consult these syllabi individually to see the orders in which these films were taught. The one film that was consistently taught out of chronological order, "Le Charme Discret" (1972), was taught toward the beginning of the semester to show students how many of the procedures of the early surrealist silent films were retained and developed by Buñuel, who, at the end of his career, had access to relatively large budgets and was able to produce glossy color films with high production values.
 
 Viewing Films in their Original Languages
 -----------------------------------------
