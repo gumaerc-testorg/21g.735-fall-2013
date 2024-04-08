@@ -16,7 +16,7 @@ Session 20
 
 ### Topic
 
-Continue discussing [_Journal d'une Femme de Chambre_](http://www.imdb.com/title/tt2711898/?ref_=nv_sr_1).
+Continue discussing {{% resource_link "2d48dea9-cccb-4432-908c-a70870111719" "_Journal d'une Femme de Chambre_" %}}.
 
 ### Reading
 
@@ -27,7 +27,7 @@ Session 21
 
 ### Topic
 
-Watch [_Tristana_](http://www.imdb.com/title/tt0066491/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Color, 95 min. Época Films, Talía Films, Selenia Cinematografica, 1970.
+Watch {{% resource_link "cdb0250d-33b5-4631-9aaf-0c3053313504" "_Tristana_" %}}. Directed by Luis Buñuel. Color, 95 min. Época Films, Talía Films, Selenia Cinematografica, 1970.
 
 ### Readings
 
@@ -35,6 +35,6 @@ Freud, Sigmund. "Lecture 33: The Psychology of Women." In _New Introductory Lect
 
 ### Recommended
 
-Chodorow, Nancy J. "Freud on Women." In _The Cambridge Companion to Freud_. Edited by Jerome Neu. Cambridge University Press, 1991. ISBN: 9780521377799. \[Preview with [Google Books](http://books.google.com/books?id=J4UNrJlLGjoC&pg=PA224=onepage)\]
+Chodorow, Nancy J. "Freud on Women." In _The Cambridge Companion to Freud_. Edited by Jerome Neu. Cambridge University Press, 1991. ISBN: 9780521377799. \[Preview with {{% resource_link "0d4231f8-968e-4764-b3fa-a3f9dd53ecf5" "Google Books" %}}\]
 
 « {{% resource_link 77259e5e-3d1c-7f2e-a4e6-45573ff303a7 "Previous" %}} | {{% resource_link f57be051-2e13-5324-845d-c6ab09ff5d7a "Next" %}} »
