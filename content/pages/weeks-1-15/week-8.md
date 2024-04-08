@@ -29,7 +29,7 @@ Session 13
 
 ### Topic
 
-[_Ensayo de un crimen_](http://www.imdb.com/title/tt0048037/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 89 min. Alianza Cinematográfica Española, 1955.
+{{% resource_link "a4b1fd6c-dbcc-43ea-a734-9b306cd7c1f6" "_Ensayo de un crimen_" %}}. Directed by Luis Buñuel. Black and White, 89 min. Alianza Cinematográfica Española, 1955.
 
 ### Reading
 
