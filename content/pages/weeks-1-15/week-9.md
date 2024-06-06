@@ -16,7 +16,7 @@ Session 14
 
 ### Topic
 
-Continue discussing {{% resource_link "a4b1fd6c-dbcc-43ea-a734-9b306cd7c1f6" "_Ensayo de un crimen_" %}}. Directed by Luis Buñuel. Black and White, 89 min. Alianza Cinematográfica Española, 1955.
+Continue discussing [_Ensayo de un crimen_](http://www.imdb.com/title/tt0048037/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 89 min. Alianza Cinematográfica Española, 1955.
 
 Student group report on _Ensayo de un crimen_.
 
@@ -29,6 +29,6 @@ Session 15
 
 ### Topic
 
-Discussion of film {{% resource_link "b385663d-5019-45c2-a7a3-9b8e7acaa6d7" "_Nazarin_" %}}. Directed by Luis Buñuel. Black and White, 94 min. Producciones Barbachano Ponce, 1959.
+Discussion of film [_Nazarin_](http://www.imdb.com/title/tt0051983/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 94 min. Producciones Barbachano Ponce, 1959.
 
 « {{% resource_link b512b2e9-350b-4378-ab1e-7fe4f8b34a23 "Previous" %}} | {{% resource_link 4e4a98ff-bb8d-62a8-c78d-7d413cc22d68 "Next" %}} »
