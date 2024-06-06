@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding 2009 year.
 file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/10a62685e4e94349e9543f921f10717d_MIT21G_735F13_2009Syllabus.pdf
+file_size: 178585
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

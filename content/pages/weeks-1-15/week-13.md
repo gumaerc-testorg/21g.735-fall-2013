@@ -16,17 +16,17 @@ Session 22
 
 ### Topic
 
-Continue discussing {{% resource_link "cdb0250d-33b5-4631-9aaf-0c3053313504" "_Tristana_" %}}.
+Continue discussing [_Tristana_](http://www.imdb.com/title/tt0066491/?ref_=fn_al_tt_1).
 
 ### Readings
 
-Grossvogel, David I. "{{% resource_link "5b1e0016-f566-44b1-aeb3-3efa8b4a536f" "Buñuel's Obsessed Camera: _Tristana_ Dismembered" %}}." _Diacritics_ 2, no. 1 (1972): 51–56.
+Grossvogel, David I. "[Buñuel's Obsessed Camera: _Tristana_ Dismembered](http://www.jstor.org/stable/464926)." _Diacritics_ 2, no. 1 (1972): 51–56.
 
 Labanyi, Jo. "Fetishism and the Problem of Sexual Differences in Buñuel's _Tristana_ (1970)." In _Spanish Cinema: The Auteurist Tradition_. Edited by Peter William Evans. Oxford University Press, 2000, pp. 76–92. ISBN: 9780198184140.
 
 Session 23
 ----------
 
-Watch Buñuel's last film: {{% resource_link "2f3b532f-ca04-4043-ab9b-a549e0481ee7" "_Cet obscure objet du désir_" %}} (_Ese oscuro objeto del deseo_). Directed by Luis Buñuel. Color, 102 min. Greenwich Film Productions, Les Films Galaxie, In-Cine Compañía Industrial Cinematográfica, 1977.
+Watch Buñuel's last film: [_Cet obscure objet du désir_](http://www.imdb.com/title/tt0075824/?ref_=nv_sr_1) (_Ese oscuro objeto del deseo_). Directed by Luis Buñuel. Color, 102 min. Greenwich Film Productions, Les Films Galaxie, In-Cine Compañía Industrial Cinematográfica, 1977.
 
 « {{% resource_link 6f1dd9f3-31b9-a21b-06e3-f172bf6911b1 "Previous" %}} | {{% resource_link dbc3d45d-139e-2ff0-3ed1-481203c8eeee "Next" %}} »
