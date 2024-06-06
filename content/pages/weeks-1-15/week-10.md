@@ -16,13 +16,13 @@ Session 16
 
 ### Topics
 
-Continue discussing {{% resource_link "b385663d-5019-45c2-a7a3-9b8e7acaa6d7" "_Nazarin_" %}}. 
+Continue discussing [_Nazarin_](http://www.imdb.com/title/tt0051983/?ref_=fn_al_tt_1). 
 
 Student group report on _Nazarín_.
 
 ### Film
 
-Watch _{{% resource_link "8a18627e-cbb1-4da4-8982-785348f7dff2" "Simón del desierto" %}}_. Directed by Luis Buñuel. Black and White, 43 min. Sindicato de Trabajadores de la Producción Cinematográfica (STPC), 1965.
+Watch _[Simón del desierto](http://www.imdb.com/title/tt0059719/?ref_=fn_al_tt_1)_. Directed by Luis Buñuel. Black and White, 43 min. Sindicato de Trabajadores de la Producción Cinematográfica (STPC), 1965.
 
 ### _Reading_
 
@@ -31,10 +31,10 @@ Watch _{{% resource_link "8a18627e-cbb1-4da4-8982-785348f7dff2" "Simón del desi
 Session 17
 ----------
 
-Watch {{% resource_link "bdd79087-9adb-47d3-bd79-ccab0be91b21" "_Viridiana_" %}}. Directed by Luis Buñuel. Black and White, 90 min. Unión Industrial Cinematográfica (UNINCI), Gustavo Alatriste, Films 59, 1961.
+Watch [_Viridiana_](http://www.imdb.com/title/tt0055601/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 90 min. Unión Industrial Cinematográfica (UNINCI), Gustavo Alatriste, Films 59, 1961.
 
 ### Reading
 
-"{{% resource_link "fc6a2f9e-6ff8-46a8-aad5-56518604df6c" "El éxito de una película prohibida: Viridiana (1961)" %}}." Centro Virtual Cervantes.
+"[El éxito de una película prohibida: Viridiana (1961)](http://cvc.cervantes.es/actcult/bunuel/obra/viridiana.htm)." Centro Virtual Cervantes.
 
 « {{% resource_link 2b580558-0be0-5b03-8d07-9d8a8b9b66e5 "Previous" %}} | {{% resource_link 77259e5e-3d1c-7f2e-a4e6-45573ff303a7 "Next" %}} »

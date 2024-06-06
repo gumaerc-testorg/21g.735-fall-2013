@@ -16,7 +16,7 @@ Session 4
 
 ### Topic
 
-Continue discussing {{% resource_link "47c2c31e-c0c9-4122-bd2c-b7c97c76679e" "_Le charme discret de la bourgeoisie_" %}} (_El discreto encanto de la burguesía_).
+Continue discussing [_Le charme discret de la bourgeoisie_](http://www.imdb.com/title/tt0068361/?ref_=nv_sr_1) (_El discreto encanto de la burguesía_).
 
 ### Readings
 
@@ -26,7 +26,7 @@ Continue discussing {{% resource_link "47c2c31e-c0c9-4122-bd2c-b7c97c76679e" "_L
 
 ### Recommended
 
-Babington, Bruce, and Peter William Evans. "{{% resource_link "b709fe01-8d50-46c9-90cd-30831b3cb229" "The Life of the Interior: Dreams in the Films of Luis Buñuel" %}}." _Critical Quarterly_ 27, no. 4 (1985): 5–20.
+Babington, Bruce, and Peter William Evans. "[The Life of the Interior: Dreams in the Films of Luis Buñuel](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8705.1985.tb00810.x/abstract)." _Critical Quarterly_ 27, no. 4 (1985): 5–20.
 
 By this class, students are expected to have read \[Mi último suspiro\] Buñuel's. Chapters 1–11, pp. 9–156.
 
