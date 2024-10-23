@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding los olvidados.
-file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/04d5d7be841bd8b11a78bdb36434ecf6_MIT21G_735F13_Ques_olvida.pdf
+file: /ol-ocw-studio-app/courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/04d5d7be841bd8b11a78bdb36434ecf6_MIT21G_735F13_Ques_olvida.pdf
 file_size: 290796
 file_type: application/pdf
 learning_resource_types: []

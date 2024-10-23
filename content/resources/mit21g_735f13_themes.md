@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding viridiana.
-file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/4a9952b991aece7c0b540f1245521ff0_MIT21G_735F13_Themes.pdf
+file: /ol-ocw-studio-app/courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/4a9952b991aece7c0b540f1245521ff0_MIT21G_735F13_Themes.pdf
 file_size: 262438
 file_type: application/pdf
 learning_resource_types: []
