@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding mi ultimo suspiro notes assignment.
-file: /ol-ocw-studio-app/courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/6d35e85cb85c534034abe5ad11eb2458_MIT21G_735F13_ultimo_asgn.pdf
+file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/6d35e85cb85c534034abe5ad11eb2458_MIT21G_735F13_ultimo_asgn.pdf
 file_size: 267742
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding ese oscuro objeto del deseo.
-file: /ol-ocw-studio-app/courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/a165c2c2cafa82a0118bf0eca89837f2_MIT21G_735F13_Ques_oscuro.pdf
+file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/a165c2c2cafa82a0118bf0eca89837f2_MIT21G_735F13_Ques_oscuro.pdf
 file_size: 297374
 file_type: application/pdf
 learning_resource_types: []

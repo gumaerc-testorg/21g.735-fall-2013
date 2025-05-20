@@ -2,7 +2,7 @@
 content_type: resource
 description: "This file contains information regarding scenes from the movie \u201C\
   el\u201D"
-file: /ol-ocw-studio-app/courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/c9ffa9fee9ce96b8949ee7179c70346c_MIT21G_735F13_Scenes_El.pdf
+file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/c9ffa9fee9ce96b8949ee7179c70346c_MIT21G_735F13_Scenes_El.pdf
 file_size: 306107
 file_type: application/pdf
 learning_resource_types: []

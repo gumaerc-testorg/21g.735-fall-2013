@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding 1999 year.
-file: /ol-ocw-studio-app/courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/738244e42609210fc2dfcb15b85bfcc9_MIT21G_735F13_1999Syllabus.pdf
+file: /courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/738244e42609210fc2dfcb15b85bfcc9_MIT21G_735F13_1999Syllabus.pdf
 file_size: 183968
 file_type: application/pdf
 learning_resource_types: []
