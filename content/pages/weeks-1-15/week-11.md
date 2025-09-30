@@ -16,19 +16,19 @@ Session 18
 
 ### Topic
 
-Continue discussing [_Viridiana_](http://www.imdb.com/title/tt0055601/?ref_=fn_al_tt_1)_._ 
+Continue discussing {{% resource_link "39333305-2362-42c5-a245-8ec463c8112a" "_Viridiana_" %}}_._ 
 
 Student group presents on _Viridiana_.
 
 ### Reading
 
-Rodríguez, José Luis. "[Contamination and Transformation: A Kristevan Reading of Luis Buñuel's _Viridiana_](http://dx.doi.org/10.1386/shci.1.3.169/1)." _Studies in Hispanic Cinema_ 1, no. 3 (2005): 169–80.
+Rodríguez, José Luis. "{{% resource_link "3380f16b-9a80-4b48-a2b2-35e87f3448f3" "Contamination and Transformation: A Kristevan Reading of Luis Buñuel's _Viridiana_" %}}." _Studies in Hispanic Cinema_ 1, no. 3 (2005): 169–80.
 
 Session 19
 ----------
 
 ### Film
 
-[_Journal d'une Femme de Chambre_](http://www.imdb.com/title/tt2711898/?ref_=nv_sr_1) (_Diario de una camarera_ / _Diary of a Chambermaid_). Directed by Benoît Jacquot. Color, 96 min. Les Films du Lendemain, JPG Productions, Les Films du Fleuve, 2015.
+{{% resource_link "901d8d01-89f8-4070-9709-d643fd51a2c0" "_Journal d'une Femme de Chambre_" %}} (_Diario de una camarera_ / _Diary of a Chambermaid_). Directed by Benoît Jacquot. Color, 96 min. Les Films du Lendemain, JPG Productions, Les Films du Fleuve, 2015.
 
 « {{% resource_link 4e4a98ff-bb8d-62a8-c78d-7d413cc22d68 "Previous" %}} | {{% resource_link 6f1dd9f3-31b9-a21b-06e3-f172bf6911b1 "Next" %}} »
