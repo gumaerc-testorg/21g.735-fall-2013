@@ -16,7 +16,7 @@ Session 9
 
 ### Topic
 
-[_El ángel exterminador_](http://www.imdb.com/title/tt0056732/?ref_=nv_sr_1). Directed by Luis Buñuel. Black and White, 95 min. Producciones Gustavo Alatriste, 1962.
+{{% resource_link "c8e7ff13-2928-4253-89a8-bf763dd568a6" "_El ángel exterminador_" %}}. Directed by Luis Buñuel. Black and White, 95 min. Producciones Gustavo Alatriste, 1962.
 
 ### Reading
 

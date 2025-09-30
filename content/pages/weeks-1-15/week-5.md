@@ -16,7 +16,7 @@ Session 7
 
 ### Topic
 
-[_Los olvidados_](http://www.imdb.com/title/tt0042804/?ref_=nv_sr_1). Directed by Luis Buñuel. Black and White, 80 min. Ultramar Films, 1950.
+{{% resource_link "6c713966-b4eb-4683-ae68-4ebb54fb59d1" "_Los olvidados_" %}}. Directed by Luis Buñuel. Black and White, 80 min. Ultramar Films, 1950.
 
 ### Reading
 
@@ -27,7 +27,7 @@ Session 8
 
 ### Topics
 
-Continue discussing [_Los olvidados_](http://www.imdb.com/title/tt0042804/?ref_=nv_sr_1).
+Continue discussing {{% resource_link "6c713966-b4eb-4683-ae68-4ebb54fb59d1" "_Los olvidados_" %}}.
 
 Student group report on _Los olvidados_.
 
