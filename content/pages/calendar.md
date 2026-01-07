@@ -41,7 +41,7 @@ Introduction to class: Lecture on Surrealism and the friendship of Luis Buñuel,
 
 ### Discussion of Film
 
-_[Un chien andalou](http://www.imdb.com/title/tt0020530/?ref_=nv_sr_1)._ (_Un perro andaluz_). Directed by Luis Buñuel. Black and White, 16 min. 1929.
+_{{% resource_link "24a87937-4549-468a-9ceb-1438d8c56a6d" "Un chien andalou" %}}._ (_Un perro andaluz_). Directed by Luis Buñuel. Black and White, 16 min. 1929.
 
 
 {{< tdclose >}}
@@ -83,7 +83,7 @@ _Un chien andalou_
 
 ### Discussion of Film
 
-_[Le charme discret de la bourgeoisie](http://www.imdb.com/title/tt0068361/)._ (_El discrete de la burguesía_). Directed by Luis Buñuel. Color, 102 min. 1972.
+_{{% resource_link "bd641f39-dde5-41c3-9ac3-507f356b9667" "Le charme discret de la bourgeoisie" %}}._ (_El discrete de la burguesía_). Directed by Luis Buñuel. Color, 102 min. 1972.
 
 
 {{< tdclose >}}
@@ -131,7 +131,7 @@ _Le charme discret de la bourgeoisie_
 
 ### Discussion of Film
 
-[_Las Hurdes_](http://www.imdb.com/title/tt0023037/?ref_=fn_al_tt_1)_._ Directed by Luis Buñuel. Black and White, 30 min. 1993.
+{{% resource_link "99461c39-1a51-4593-9f74-60110d6cb28e" "_Las Hurdes_" %}}_._ Directed by Luis Buñuel. Black and White, 30 min. 1993.
 
 
 {{< tdclose >}}
@@ -173,7 +173,7 @@ Due date to pick a film to write about for 10 page paper assignment
 
 ### Discussion of Film
 
-[_Los olvidados_](http://www.imdb.com/title/tt0042804/?ref_=nv_sr_1). Directed by Luis Buñuel. Black and White, 80 min. Ultramar Films, 1950.
+{{% resource_link "6c713966-b4eb-4683-ae68-4ebb54fb59d1" "_Los olvidados_" %}}. Directed by Luis Buñuel. Black and White, 80 min. Ultramar Films, 1950.
 
 
 {{< tdclose >}}
@@ -215,7 +215,7 @@ Student group report on _Los olvidados_.
 
 ### Discussion of Film
 
-[_El ángel exterminador_](http://www.imdb.com/title/tt0056732/?ref_=nv_sr_1). Directed by Luis Buñuel. Black and White, 95 min. Producciones Gustavo Alatriste, 1962.
+{{% resource_link "c8e7ff13-2928-4253-89a8-bf763dd568a6" "_El ángel exterminador_" %}}. Directed by Luis Buñuel. Black and White, 95 min. Producciones Gustavo Alatriste, 1962.
 
 
 {{< tdclose >}}
@@ -257,7 +257,7 @@ _El ángel exterminador_
 
 ### Discussion of Film
 
-[_El_](http://www.imdb.com/title/tt0045361/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 82 min. Producciones Tepeyac, 1953.
+{{% resource_link "83ec1a96-0f38-4e97-9711-be5acbd44c9a" "_El_" %}}. Directed by Luis Buñuel. Black and White, 82 min. Producciones Tepeyac, 1953.
 
 
 {{< tdclose >}}
@@ -299,7 +299,7 @@ Student group report on _El_.
 
 ### Discussion of Film
 
-[_Ensayo de un crimen_](http://www.imdb.com/title/tt0048037/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 89 min. Alianza Cinematográfica Española, 1955.
+{{% resource_link "3d21e497-51c1-4d95-8b1a-567c8ed6a251" "_Ensayo de un crimen_" %}}. Directed by Luis Buñuel. Black and White, 89 min. Alianza Cinematográfica Española, 1955.
 
 
 {{< tdclose >}}
@@ -341,7 +341,7 @@ Student group report on _Ensayo de un crimen._
 
 ### Discussion of Film
 
-[_Nazarin_](http://www.imdb.com/title/tt0051983/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 94 min. Producciones Barbachano Ponce, 1959.
+{{% resource_link "67ec8697-70ae-4fe9-b27d-4c96c0183fc5" "_Nazarin_" %}}. Directed by Luis Buñuel. Black and White, 94 min. Producciones Barbachano Ponce, 1959.
 
 
 {{< tdclose >}}
@@ -367,7 +367,7 @@ Student group report on _Ensayo de un crimen._
 
 ### Nazarin 
 
-[_Simon del desierto_](http://www.imdb.com/title/tt0059719/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 43 min. Sindicato de Trabajadores de la Producción Cinematográfica (STPC), 1965.
+{{% resource_link "3fe5de7b-0fac-45fe-ad51-561a8494a2eb" "_Simon del desierto_" %}}. Directed by Luis Buñuel. Black and White, 43 min. Sindicato de Trabajadores de la Producción Cinematográfica (STPC), 1965.
 
 
 {{< tdclose >}}
@@ -385,7 +385,7 @@ Student group report on _Nazarín_.
 
 ### Watch
 
-[_Viridiana_](http://www.imdb.com/title/tt0055601/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 90 min. Unión Industrial Cinematográfica (UNINCI), Gustavo Alatriste, Films 59, 1961.
+{{% resource_link "39333305-2362-42c5-a245-8ec463c8112a" "_Viridiana_" %}}. Directed by Luis Buñuel. Black and White, 90 min. Unión Industrial Cinematográfica (UNINCI), Gustavo Alatriste, Films 59, 1961.
 
 
 {{< tdclose >}}
@@ -427,7 +427,7 @@ Student group report on _Viridiana_.
 
 ### Watch
 
-"[_Journal d'une Femme de Chambre_](http://www.imdb.com/title/tt2711898/?ref_=nv_sr_1)_._ (_Diario de una camarera/ Diary of a Chambermaid_.) Directed by Benoît Jacquot. Color, 96 min. Les Films du Lendemain, JPG Productions, Les Films du Fleuve, 2015.
+"{{% resource_link "901d8d01-89f8-4070-9709-d643fd51a2c0" "_Journal d'une Femme de Chambre_" %}}_._ (_Diario de una camarera/ Diary of a Chambermaid_.) Directed by Benoît Jacquot. Color, 96 min. Les Films du Lendemain, JPG Productions, Les Films du Fleuve, 2015.
 
 
 {{< tdclose >}}
@@ -469,7 +469,7 @@ _Journal d'une Femme de Chambre_.
 
 ### Watch
 
-[_Tristana_](http://www.imdb.com/title/tt0066491/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Color, 95 min. Época Films, Talía Films, Selenia Cinematografica, 1970.
+{{% resource_link "a305a6eb-cf86-45ef-9b15-33aed04665fb" "_Tristana_" %}}. Directed by Luis Buñuel. Color, 95 min. Época Films, Talía Films, Selenia Cinematografica, 1970.
 
 
 {{< tdclose >}}
@@ -507,7 +507,7 @@ _Tristana_.
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Buñuel's last film [_Cet obscure objet du désir_](http://www.imdb.com/title/tt0075824/?ref_=nv_sr_1)(_Ese oscuro objeto del deseo_.) Directed by Luis Buñuel. Color, 102 min. Greenwich Film Productions, Les Films Galaxie, In-Cine Compañía Industrial Cinematográfica, 1977.
+Buñuel's last film {{% resource_link "05fa7feb-43b6-4606-ad6e-5aa5a3e78e48" "_Cet obscure objet du désir_" %}}(_Ese oscuro objeto del deseo_.) Directed by Luis Buñuel. Color, 102 min. Greenwich Film Productions, Les Films Galaxie, In-Cine Compañía Industrial Cinematográfica, 1977.
 {{< tdclose >}}
 {{< tdopen >}}
  

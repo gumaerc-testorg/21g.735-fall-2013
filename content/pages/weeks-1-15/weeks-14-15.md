@@ -16,7 +16,7 @@ Session 24
 
 ### Topic
 
-Continue discussing [_Cet obscure objet du désir_](http://www.imdb.com/title/tt0075824/?ref_=nv_sr_1).
+Continue discussing {{% resource_link "05fa7feb-43b6-4606-ad6e-5aa5a3e78e48" "_Cet obscure objet du désir_" %}}.
 
 ### Reading
 

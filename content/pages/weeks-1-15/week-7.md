@@ -16,13 +16,13 @@ Session 10
 
 ### Topic
 
-Continue discussing [_El ángel exterminador_](http://www.imdb.com/title/tt0056732/?ref_=nv_sr_1).
+Continue discussing {{% resource_link "c8e7ff13-2928-4253-89a8-bf763dd568a6" "_El ángel exterminador_" %}}.
 
 Student group report on _Los olvidados_.
 
 ### Readings
 
-Miles, J. Robert. "Crossing the Line in Mexico?" Luis Buñuel's _El ángel exterminador_." In _Latin American Cinema: Essays on Modernity, Gender, and National Identity_. Edited by Lisa Shaw and Stephanie Denison. Mcfarland & Comapny Incorporation Publication, 2005. ISBN: 9780786420049. \[Preview with [Google Books](http://books.google.com/books?id=MB-hBAAAQBAJ&pg=PA59=onepage)\]
+Miles, J. Robert. "Crossing the Line in Mexico?" Luis Buñuel's _El ángel exterminador_." In _Latin American Cinema: Essays on Modernity, Gender, and National Identity_. Edited by Lisa Shaw and Stephanie Denison. Mcfarland & Comapny Incorporation Publication, 2005. ISBN: 9780786420049. \[Preview with {{% resource_link "c04b4a7e-7547-4063-a15e-dbeb0206160a" "Google Books" %}}\]
 
 \[Mi último suspiro\] Chapter 18 and 19: "El ángel extermindaor." pp. 280–82 and 239–71.
 
@@ -31,7 +31,7 @@ Session 11
 
 ### Film
 
-[_El_](http://www.imdb.com/title/tt0045361/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 82 min. Producciones Tepeyac, 1953.
+{{% resource_link "83ec1a96-0f38-4e97-9711-be5acbd44c9a" "_El_" %}}. Directed by Luis Buñuel. Black and White, 82 min. Producciones Tepeyac, 1953.
 
 ### Reading
 
